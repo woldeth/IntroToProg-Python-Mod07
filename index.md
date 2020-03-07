@@ -12,6 +12,6 @@ In this assignment I searched the web to learn about pickling data and storing i
 
 ## Pickling 
 
-In this assignment I first start by importing the pickle module. I asked the user multiple sensitive question once I asked the use multiple  question I captured the data using a variable. I open a new file and use the ‘wb’ for writing in binary. Once I open the file in ‘wb’ mode I use the pickle function ‘dump’ to populate the dat file with the information I would like. The data I choose to populate is the same data I accepted from the user. See figure for the functions I call to open and write to the file in binary. 
+In this assignment I first start by importing the pickle module. I asked the user multiple sensitive question once I asked the use multiple  question I captured the data using a variable. I open a new file and use the ‘wb’ for writing in binary. Once I open the file in ‘wb’ mode I use the pickle function ‘dump’ to populate the dat file with the information I would like. The data I choose to populate is the same data I accepted from the user. See figure 1 for the functions I call to open and write to the file in binary. 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+![](/Figure1.png)
